@@ -1,0 +1,28 @@
+body {
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #61FF4F;
+}
+
+.sobre-mim {
+    background-color: #4FFFEF;
+    
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: #61FF4F;
+}
+
+.bg-footer {
+    background-color: gray;
+    padding-bottom: 20px;
+    color: whitesmoke
+}
